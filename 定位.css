@@ -1,0 +1,22 @@
+div{
+    width: 150px;
+    height: 150px;
+    background: #ff000f;
+    border:     black;
+}
+.div2{
+    background: blue;
+}
+.div3{
+    background: green;
+}
+.div2{
+    position: relative;
+    top: -150px;
+    right: -150px;
+}
+.div3{
+    position: fixed;
+   
+    top:150px;
+}
